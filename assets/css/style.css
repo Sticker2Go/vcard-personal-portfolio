@@ -1601,6 +1601,8 @@ textarea.form-input::-webkit-resizer {
     margin: 0 -30px;
     padding: 45px;
     scroll-padding-inline: 45px;
+    display: flex;
+    align-items: center;
   }
 
   .clients-item {
